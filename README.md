@@ -1,2 +1,2 @@
 # FML
-Fundamental of Machine Learning for high school students
+Fundamental of Machine Learning and Robotics for high school students
